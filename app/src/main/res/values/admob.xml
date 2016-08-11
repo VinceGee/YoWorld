@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+	<string name="admob_unit_id_poi_list">ca-app-pub-2986518761273848/1106687210</string> <!-- AdMob unit id -->
+	<string name="admob_unit_id_poi_detail">ca-app-pub-2986518761273848/1106687210</string> <!-- AdMob unit id -->
+	<string name="admob_unit_id_map">ca-app-pub-2986518761273848/1106687210</string> <!-- AdMob unit id -->
+	<string name="admob_test_device_id">E662BD434D458C050AC7CE026EC1F22B</string> <!-- You can find your hashed device id in the logcat output by requesting an ad when debugging on your device -->
+</resources>
